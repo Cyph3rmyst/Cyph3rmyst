@@ -1,6 +1,6 @@
-OPERATION: GHOST OPERATIONS
+# OPERATION: GHOST OPERATIONS
 
-Theatre of Operations
+## Theatre of Operations
 
 The year is 2027.
 
@@ -42,7 +42,7 @@ Everything else is irrelevant.
 
 ---
 
-Cogwork TAC-1
+## Cogwork TAC-1
 
 Hidden high within Mount Kuamar, Cogwork TAC-1 serves as the command center for Ghost Operations. Once a strategic military communications facility, it has been transformed into an elite cyber operations headquarters capable of coordinating defensive missions across the entire country.
 
@@ -52,7 +52,7 @@ TAC-1 is more than a headquarters—it is home.
 
 ---
 
-Operational Doctrine
+## Operational Doctrine
 
 Ghost Operations is governed by six directives that every operator must follow without exception.
 
@@ -72,7 +72,7 @@ The sixth and final directive is simple: complete one deployment before beginnin
 
 ---
 
-The National Campaign
+## The National Campaign
 
 To rebuild Kuamar, the country has been divided into operational sectors. Each region represents a deployment of increasing difficulty. Every successful deployment restores another critical part of the nation's cyber defenses while preparing Cyph3rmyst for the next stage of the campaign.
 
@@ -90,7 +90,7 @@ The final deployment takes place in Rashida Qalat, the former seat of the dictat
 
 ---
 
-Offensive Operations Division
+## Offensive Operations Division
 
 Ghost Operations recognizes that effective defenders must understand how attackers think. For this reason, every deployment concludes with a small offensive training exercise. These missions exist not to create attackers, but to build intuition.
 
@@ -108,7 +108,7 @@ Finally, the National Cryptographic Institute hosts Cryptopals, where Cyph3rmyst
 
 ---
 
-Mission Objective
+## Mission Objective
 
 By the time Ghost Operations concludes, Cyph3rmyst will have progressed from a complete beginner into a capable SOC Level 2 Analyst, Malware Analyst, Reverse Engineer, and Digital Forensics Investigator, supported by a practical understanding of offensive operations gained through structured wargames.
 
